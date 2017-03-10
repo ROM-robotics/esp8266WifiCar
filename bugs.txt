@@ -1,0 +1,2 @@
+if wifi password is wrong, it cause while loop forever.
+restart the esp8266!
